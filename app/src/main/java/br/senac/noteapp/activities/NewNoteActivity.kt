@@ -25,7 +25,5 @@ class NewNoteActivity : AppCompatActivity() {
 
             finish()
         }
-
     }
-
 }
